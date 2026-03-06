@@ -1,4 +1,8 @@
-# Next.js 15 Starter (shadcn) [[LIVE DEMO](https://nextjs-15-starter-shadcn.vercel.app/)]
+# Hart aan Huis
+
+Modern responsive website for a Dutch home-care service providing personal care and guidance.
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 > **⚠️ ARCHIVED**: This project has been archived. Please use the [Next.js 16 Starter (shadcn)](https://github.com/siddharthamaity/nextjs-16-starter-shadcn) instead.
 
